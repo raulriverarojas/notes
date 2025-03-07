@@ -1,7 +1,7 @@
 # Database Normalization
 
 ## What is Database Normalization
-- designing a db schema in such a way that it can't express [redundant](#redundacy) information
+- designing a db schema in such a way that it can't express [redundant](#redundancy) information
 - db design principle for organizing data consistently
 - usually involves breaking up into several tables linked together with relationships
     - relationships are achieved using [primary keys](#primary-key), [foreign keys](#foreign-key), [composite keys](#composite-key)
