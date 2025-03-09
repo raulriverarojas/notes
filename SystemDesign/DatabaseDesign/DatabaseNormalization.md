@@ -31,7 +31,7 @@
 ## First Normal Form (1NF)
 **Why we need it:**
 - Eliminates [repeating groups](#repeating-groups)
-- Ensures atomic values
+- Ensures [atomic](#atomicity) values
 
 **Criteria:**
 - [Primary key](#primary-key) is required
